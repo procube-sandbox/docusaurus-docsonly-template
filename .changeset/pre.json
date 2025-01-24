@@ -2,9 +2,10 @@
   "mode": "pre",
   "tag": "rc",
   "initialVersions": {
-    "@procube/my-docs": "0.0.0"
+    "@procube-sandbox/my-docs": "0.0.0"
   },
   "changesets": [
+    "blue-rockets-bow",
     "calm-hairs-sniff",
     "red-years-smoke"
   ]

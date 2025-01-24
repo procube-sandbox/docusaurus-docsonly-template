@@ -1,5 +1,5 @@
 ---
-"@procube/my-docs": patch
+"@procube-sandbox/my-docs": patch
 ---
 
 change private false

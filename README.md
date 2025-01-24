@@ -5,7 +5,7 @@ Docusaurus の My Project 用にカスタマイズされたサイトを構築す
 ### Installation
 
 ```
-$ yarn add --dev @procube/my-docs
+$ yarn add --dev @procube-sandbox/my-docs
 ```
 
 ### Local Development

@@ -2,4 +2,4 @@
 "@procube-sandbox/my-docs": patch
 ---
 
-initial commit
+change scope name

@@ -1,4 +1,10 @@
-# @procube/my-docs
+# @procube-sandbox/my-docs
+
+## 0.0.1-rc.2
+
+### Patch Changes
+
+- change scope name
 
 ## 0.0.1-rc.1
 
