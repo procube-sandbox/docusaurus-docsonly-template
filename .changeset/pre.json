@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "rc",
+  "initialVersions": {
+    "my-docs": "0.0.0"
+  },
+  "changesets": [
+    "calm-hairs-sniff"
+  ]
+}
