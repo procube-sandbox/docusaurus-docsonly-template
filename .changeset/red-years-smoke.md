@@ -2,4 +2,4 @@
 "@procube/my-docs": patch
 ---
 
-initial commit
+change private false
