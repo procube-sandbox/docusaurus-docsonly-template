@@ -1,5 +1,11 @@
 # @procube-sandbox/my-docs
 
+## 0.0.1-rc.3
+
+### Patch Changes
+
+- Fix errors
+
 ## 0.0.1-rc.2
 
 ### Patch Changes
