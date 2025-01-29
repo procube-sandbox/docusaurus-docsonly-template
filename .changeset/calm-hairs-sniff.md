@@ -1,5 +1,0 @@
----
-"@procube-sandbox/my-docs": patch
----
-
-initial commit

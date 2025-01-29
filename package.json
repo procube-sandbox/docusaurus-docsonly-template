@@ -1,6 +1,6 @@
 {
   "name": "@procube-sandbox/my-docs",
-  "version": "0.0.1-rc.3",
+  "version": "0.0.1",
   "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
